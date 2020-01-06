@@ -27,15 +27,15 @@ The `image-classification-SSD` and `GAN-deep-convolutional` examples in this roo
 - [Machine Learning](https://github.com/vicb1/machine-learning) (note this is a private repo due to coursework sharing policies, please contact me over [Linkedin](https://www.linkedin.com/in/vbajenaru/) if you'd like access) - including:
   - Machine Learning coursework: [Course description](https://www.omscs.gatech.edu/cs-7641-machine-learning), and [Lectures](https://classroom.udacity.com/courses/ud262)
   - Machine learning for Stock Trading coursework: [Course description](https://www.omscs.gatech.edu/cs-7646-machine-learning-trading), [Lectures](https://classroom.udacity.com/courses/ud501), and [Assignments/reference information](http://quantsoftware.gatech.edu/CS7646_Spring_2019)
-  - Additional notes/references
+  - Additional notes/examples
 - [Computer Vision](https://github.com/vicb1/computer-vision) (note this is a private repo due to coursework sharing policies, please contact me over [Linkedin](https://www.linkedin.com/in/vbajenaru/) if you'd like access) - including:
     - Computational Photography coursework: [Course description](https://www.omscs.gatech.edu/cs-6475-computational-photography), [Lectures](https://classroom.udacity.com/courses/ud955)
     - Computer Vision coursework: [Course description](https://www.omscs.gatech.edu/cs-7641-machine-learning) and [Lectures](https://classroom.udacity.com/courses/ud810)
   - Other working examples of computer vision techniques
-  - Additional notes/references
+  - Additional notes/examples
 - [AI with Computer Vision](https://github.com/vicb1/AI-with-computer-vision)  (note this is a private repo due to coursework sharing policies, please contact me over [Linkedin](https://www.linkedin.com/in/vbajenaru/) if you'd like access) - including:
   - Knowledge-Based AI coursework: [Course description](https://www.omscs.gatech.edu/cs-7637-knowledge-based-artificial-intelligence-cognitive-systems) and [Lectures](https://classroom.udacity.com/courses/ud409)
-  - Additional notes/references
+  - Additional notes/examples
 
 - [Python reference](https://github.com/vicb1/python-reference) - including:
   - Code examples for: numpy, pandas, multi-dimensional visualization (often helpful for creating interpretability plots), error handling, Spark (common querying method for parallel datastores), and algorithms
