@@ -12,7 +12,7 @@ For example we take image examples such as these:
 
 And through the DCGAN algorithm, we can iteratively generate fake images such as the ones below:
 
-![image](https://github.com/vicb1/deep-learning-for-computer-vision/blob/master/3-GAN-deep-convolutional/results/fake_samples_epoch_024.png?raw=true)
+![image](https://github.com/vicb1/deep-learning/blob/master/3-GAN-deep-convolutional/results/fake_samples_epoch_024.png)
 
 #### To set up environment on Ubuntu 18.04:
 1. Download this repository, then run the following commands in the command prompt to create this environment:
